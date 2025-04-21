@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41a0023-72c5-473a-ab98-d54af55a55b5" name="Changes" comment="jogo side scrolling usando pygame.">
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/Ninja.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ninja/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Entities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
-    </list>
+    <list default="true" id="c41a0023-72c5-473a-ab98-d54af55a55b5" name="Changes" comment="jogo side scrolling usando pygame." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736709003580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jogo side scrolling usando pygame.">
+      <option name="closed" value="true" />
+      <created>1745247109217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745247109217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
